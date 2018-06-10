@@ -4,4 +4,4 @@
 - Only registered users can listen to song previews. Only administrator can update records in the database. 
 
 Technologies:
-ASP.NET MVC
+ASP.NET MVC (Visual Studio 2015)
